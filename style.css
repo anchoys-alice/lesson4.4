@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+header {
+    padding: 10px;
+    background-color: paleturquoise;
+}
+
+h1 {
+    background-color:#a7ffff;
+    text-align: center;
+    color: darkblue;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+footer p {
+    background-color: #a7ffff;
+}
+
+nav {
+    background-color: rgb(0, 144, 0);
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 70px;
+}
+
+select {
+    padding: 7px;
+    background-color: white;
+    color: royalblue;
+    border-radius: 10px;
+    border: 3px solid navy;
+    font-size: 20px;
+}
+
+    select option {
+        color: white;
+        background-color: navy;
+    }
+
+.img {
+    background-color: #b4e98f;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color:blue;
+}
+
+h2 {
+    color: blue;
+}
+.p {
+   margin-top: ; border: 2px solid darkblue;
+}
+
+.imgp {
+    border-radius: 20px;
+    margin: 10px;
+    border: 1px solid skyblue;
+}
